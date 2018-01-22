@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\bin\Release\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\bin\Release\eGradjevina.DATA.pdb
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Release\eGradjevina.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Release\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Release\eGradjevina.DATA.pdb

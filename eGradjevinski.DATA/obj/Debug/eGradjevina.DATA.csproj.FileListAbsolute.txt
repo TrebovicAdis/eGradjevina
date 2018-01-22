@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\eNamjestaj\eNamjestaj.DATA\obj\Debug\eGradjevina.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\eNamjestaj\eNamjestaj.DATA\bin\Debug\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eNamjestaj.DATA\bin\Debug\eGradjevina.DATA.pdb
+C:\Users\Acer\Desktop\eNamjestaj\eNamjestaj.DATA\obj\Debug\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eNamjestaj.DATA\obj\Debug\eGradjevina.DATA.pdb
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\bin\Debug\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\bin\Debug\eGradjevina.DATA.pdb
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.dll
+C:\Users\Acer\Desktop\eNamjestaj\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.pdb
+C:\Users\AdisT\Desktop\SeminarskiHCI\eGradjevinski.DATA\bin\Debug\eGradjevina.DATA.dll
+C:\Users\AdisT\Desktop\SeminarskiHCI\eGradjevinski.DATA\bin\Debug\eGradjevina.DATA.pdb
+C:\Users\AdisT\Desktop\SeminarskiHCI\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.csprojResolveAssemblyReference.cache
+C:\Users\AdisT\Desktop\SeminarskiHCI\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.dll
+C:\Users\AdisT\Desktop\SeminarskiHCI\eGradjevinski.DATA\obj\Debug\eGradjevina.DATA.pdb

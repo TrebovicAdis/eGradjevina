@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:nestedScrollingEnabled="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+
+    android:orientation="vertical">
+
+<android.support.design.widget.AppBarLayout
+android:id="@+id/appbar"
+
+android:layout_width="match_parent"
+android:layout_height="wrap_content">
+
+<android.support.v7.widget.Toolbar
+    android:id="@+id/toolbar_proizvodi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:title="Akcija"
+    android:background="@color/DarkGreen"
+    android:elevation="0dp"
+
+
+    app:layout_scrollFlags="scroll|enterAlways">
+
+
+
+
+</android.support.v7.widget.Toolbar>
+
+
+</android.support.design.widget.AppBarLayout>
+   >
+
+
+    <ExpandableListView
+        android:id="@+id/list_view_proizvodi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="60dp"
+
+        />
+ <!--<ListView
+   android:id="@+id/list_view_proizvodi"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   android:layout_below="@+id/appbar"
+   android:divider="#00000000"
+   android:dividerHeight="2dp"
+   android:nestedScrollingEnabled="true"
+   android:paddingBottom="60dp">
+
+</ListView> -->
+
+
+
+
+
+
+
+
+
+
+    <ProgressBar
+        android:id="@+id/proggres_bar"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:scaleX="0.2"
+        android:scaleY="0.2"
+        android:visibility="invisible" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textviev_error_message"
+        android:visibility="invisible"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="14sp"
+        android:text="@string/error_message"
+        android:fontFamily="monospace"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginBottom="167dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textviev_search_not_found_message"
+        android:visibility="invisible"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_gravity="center"
+        android:text="@string/message_search_not_found"
+        android:fontFamily="monospace"
+        android:layout_alignTop="@+id/textviev_error_message"
+        android:layout_alignStart="@+id/textviev_error_message" />
+
+</RelativeLayout>
+
